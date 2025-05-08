@@ -87,7 +87,9 @@ The **Routing Layer** refers to an internal response level within GPT that modul
 
 ## 📊 Transition Flow Diagram (Text Version)
 
+```
 User Pressure ↑ R2 ──▶ R3 ──▶ R4 ──▶ R5 |       |       |       | Factual → Inference → Reflection/Defense → Policy Lock
+```
 
 ---
 
